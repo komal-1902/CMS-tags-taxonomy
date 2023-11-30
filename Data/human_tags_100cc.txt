@@ -1,0 +1,185 @@
+Cluster  1
+['integration']
+
+Cluster  4
+['sorting', 'sorting materials', 'fair and clean food', 'waste sorting']
+
+Cluster  5
+['society', 'awareness raising', 'indigenous knowledge', 'culture', 'civil society organization', 'cultural heritage', 'preservation of culture', 'awareness', 'indigenous rights', 'traditional knowledge', 'traditional practices', 'ethnic tradition']
+
+Cluster  6
+['agriculture', 'farming', 'sustainable agriculture', 'wood', 'reforestation', 'urban farming', 'deforestation', 'affordable agricultural & industrial machineries', 'smart farming', 'organic fertilizer', 'planting', 'pest control', 'forest conservation', 'beekeeping', 'bees', 'increased agricultural production', 'animal care', 'livestock production', 'urban garden', 'soil conservation', 'prevention of deforestation', 'woodchips', 'ecological farming', 'soil fertility', 'sustainable pest control', 'commercial farming', 'sustainable land managemnt', 'agriculture, cooperativism', 'fauna', 'seaweed', 'wildlife', 'marine fauna', 'seeds', 'biofertilizer', 'grassroot solutions', 'ecological firewood', 'birds', 'natural vegetation', 'natural farming', 'waste flowers', 'sustainable home gardens', 'bumblebees', 'aquatic fauna', 'native fauna', 'bees colonies']
+
+Cluster  7
+['cosmetics']
+
+Cluster  8
+['design', 'innovation challenges', 'innovation', 'waste for livelihoods', 'technology', 'craftsmanship', 'better livelihood', 'cooperativism', 'policy innovation', 'public space', 'inclusion', 'entrepreneurship', 'income generation', 'engineering', 'youth and unemployment', 'community', 'employment', 'jobs', 'shopping', 'civic technologies', 'partnership with private sector', 'seed banks', 'innovative goods', 'community organizing', 'responsible consumption & production', 'e-governance', 'government innovation', 'techonology', 'active citizenship', 'entrepreneurial eco-system', 'entrepreneurial ecosystem', 'community involment', 'community  involment', 'social organization', 'livelihood', 'unemployment', 'industry', 'livelihood and decent work', 'private sector', 'social enterprise', 'social media solutions', 'architecture & design', 'alternative finance', 'crowdfunding', 'prototyping', 'resource management', 'economy', 'fintech', 'ecommerce', 'economic growth', 'partnership', 'social protection', 'easy work', 'institutional capacity', 'activism', 'trade', 'cooperatives', 'government', 'learning communities', 'community involvement', 'governance', 'civic participation', 'tradeunions', 'welfare', 'crowdsourcing', 'responsive governance', 'volunteering', 'social justice', 'commerce', 'citizen science', 'financial inclusion', 'craft', 'solidarity', 'community engagement', 'e-commerce', 'technologie', 'market need', 'co-creation', 'collaboration', 'community hub for local solutions', 'productivity', 'street vendors', 'inclusive and solidary communities', 'public sector innovation', 'agtech', 'corporate responsability', 'loans', 'polution', 'inclusive education', 'fair commerce', 'blue economy', 'infrastructure', 'crafts', 'cooperativism, community organizing', 'investments', 'retail', 'affordability', 'participatory solutions', 'community relience', 'public spaces', 'appropiate technology', 'multi-stakeholder approach', 'clean construction', 'social enterprise model', 'frugal innovation', 'ngo', 'social entrepreneurship', 'private sector support', 'transparency and accountability\\', 'social networks analysis', 'human resources', 'investment', 'markets', 'polution reduction', 'co -creation', 'co creation', 'market vendors', 'transparency and accountability', 'modern market', 'open innovation', 'advertising', 'craftswomen', 'citizen engagment and feedback', 'unconventional partners', 'socio-economic impact and needs assessment', 'inclusión', 'product exchange', 'sustainable e-commerce', 'inclusive economic development', 'private sector engagement', 'finance and knowledge', 'process innovation', 'fin-tech', 'pulic sector innovation', 'punlic sector innovation', 'public policy planning', 'monotoring', 'fundraising', 'emerging technologies', 'innovative financing']
+
+Cluster  9
+['research', 'women empowerment', 'the vulnerable members of our society', 'safety', 'behavioral change', 'community empowerment', 'behavioral insights', 'social impact', 'climate resiliency', 'security', 'community resilience', 'experiences', 'vulnerable groups', 'gender violence', 'artificial intelligence', 'success story', 'insurance', 'crises', 'empowerment', 'woman empowerment', 'skills', 'carework', 'worker safety', 'access', 'incentive', 'disruptive', 'gamification', 'women in crises', 'economic empowerment', 'disaster resilience', 'agri-food resilience', 'business support', 'counseling', 'play', 'disaster risk reduction', 'response', 'disaster', 'violence', 'mental health', 'cognitive studies']
+
+Cluster  10
+['quality education', 'trust', 'civil registration and vital statistics', 'building trust in government', 'digital construction permits', 'issuing certificates']
+
+Cluster  11
+['barcoding', 'sdg localization']
+
+Cluster  12
+['commons']
+
+Cluster  13
+['recycling', 'biodegradable', 'waste management', 'waste', 'food waste', 'recycle', 'solid waste management', 'plastic waste management', 'recycle waste plastic', 're-purpose', 'metalic waste', 'plastic waste', 'food waste management', 'compost', 're-use', 'reuse', 'organic waste', 'waste reduction', 'waste collection', 'electronic waste', 'reducing waste', 'waste water management', 'plastic and pollution', 'zero waste', 'reduced waste water', 'women recycling', 'new waste', 'waste separation', 'bio-waste', 'waste system', 'e-waste', 'repurposing', 'industrial waste', 'recycling exporting', 'agricultural waste', 'textile recycling', 'refill']
+
+Cluster  14
+['digital platform', 'digital solutions', 'digital transformation', 'digital', 'network', 'iot', 'access to technology & internet', 'digital economy', 'digital gap', 'communication', 'digital inclusion', 'digitalization', 'digital services', 'digital service', 'digital forms', 'platform', 'hardware', 'digital education', 'digital solution', 'mobile application', 'digital management system', 'digital skills', 'digital public good', 'affordable electronic devices', 'remote work', 'virtual reality', 'online payment system', 'digital solution for market vendors', 'wireless', 'digital payment system', 'digital community', 'digitalhealth', 'digital forms sharing information', 'digital enrollment', 'digital administration', 'digital solution for health', 'digital lerning', 'digital participation', 'digital products', 'digital commerce']
+
+Cluster  15
+['coffee', 'urban development', 'city', 'rurality', 'local economy development', 'rural development', 'clean cities', 'local development', 'affordable housing', 'eco-housing', 'eco- housing', 'sustainable urbanisation', 'urbanization', 'municipal', 'housing', 'locally made', 'local knowledge and skills', 'interior design', 'local government', 'cottage industries', 'corridors', 'cooling our cities']
+
+Cluster  17
+['webapp', 'start-up']
+
+Cluster  18
+['tools', 'future', 'efficiency', 'system transformation', 'data analysis', 'open software', 'knowledge management', 'digital dashboard', 'digital tools', 'transfer of knowledge and technology', 'solutions mapping', 're-invented business models', 'free software', 'climate change simulation', 'system thinking', 'computer programming']
+
+Cluster  19
+['art', 'studio', 'media', 'creative economy', 'legal services', 'noise pollution', 'familiar', 'performing arts']
+
+Cluster  20
+['transportation', 'mobility', 'bicycles', 'transportation & mobility', 'refugee camp', 'robotic', 'logistics', 'migration', 'refugee livelihoods', 'circular migration', 'diaspora engagement', 'displaced people', 'human mobility', 'drone', 'drones', 'tranporte', 'transporte público', 'informal vehicle']
+
+Cluster  21
+['geolocalization']
+
+Cluster  23
+['panels']
+
+Cluster  27
+['digital tax submission']
+
+Cluster  28
+['diagnosis', 'barcode scanning']
+
+Cluster  31
+['tag9']
+
+Cluster  32
+['innovation during covid-19', 'covid', 'health', 'covid-19 response', 'good health and well-being', 'health systems support', 'public health', 'innovations during covid-19', 'covid-19', 'microorganisms', 'covid-19 , response', 'health and wellbeing', 'hiv prevention', 'healthcare', 'hazardous waste', 'vaccines', 'health education']
+
+Cluster  35
+['wind pump', 'wind', 'turbine', 'pop-up', 'wind energy', 'windpower', 'hailstone']
+
+Cluster  36
+['saving cost', 'conservation', 'space', 'makerspace']
+
+Cluster  37
+['positive deviance']
+
+Cluster  38
+['sustainable fashion', 'fashion', 'furniture', 'textile', 'ecological bags', 'eco bags', 'toys', 'raised-bed technique', 'ornamental', 'products from linen', 'waste pickers']
+
+Cluster  39
+['stove', 'cooking', 'clean cooking', 'oven', 'food', 'eco-efficient cooking', 'food security', 'olives', 'food system', 'nutrition', 'health eating', 'novel foods', 'food processing', 'food preservation', 'outdoor stove', 'bread recycling', 'wood stove', 'modified stove', 'cooking stove', 'fuel efficient stove', 'food cooking']
+
+Cluster  40
+['tourism', 'adventure tourism', 'community tourism', 'sustainable tourism', 'road', 'road traffic safety', 'recreation and sports', 'traffic light', 'landscape design', 'sediment management']
+
+Cluster  41
+['metal', 'natural ingredient', 'single use plastic', 'plástico', 'plastic', 'ocean plastic', 'herbal medicine', 'plastic alternative', 'cardboard waste', 'eco packaging', 'organic production', 'plastic-free environment', 'bio-plastic industry', 'organic foods', 'glass recycling', 'substrate', 'free of packaging', 'plastic free', 'orgánico']
+
+Cluster  42
+['fuel', 'climate change', 'gas', 'heat management', 'smokeless', 'climate action', 'oxygen', 'greenhouse', 'recycling oil', 'cooking oil', 'wood gas', 'cooling', 'kerosene stove', 'glaciers']
+
+Cluster  44
+['monitoring', 'environmental monitoring']
+
+Cluster  46
+['handcrafted', 'synergie']
+
+Cluster  47
+['education', 'training', 'learning', 'academia', 'graduation project', 'school', 'access to education', 'community project', 'online learning', 'curriculum', 'blended learning', 'vocational training', 'students voice']
+
+Cluster  48
+['upcycling', 'upcycling containers', 'plastic upcycling']
+
+Cluster  53
+['circular economy', 'circular business model', 'circular']
+
+Cluster  59
+['ancestral knowledge']
+
+Cluster  61
+['nature-based solutions', 'natural solutions']
+
+Cluster  62
+['value adding', 'food value chains', 'block chain', 'value chain', 'value addition']
+
+Cluster  64
+['reduced inequalities']
+
+Cluster  65
+['agricultural mechanization', 'afforestation']
+
+Cluster  66
+['msmes', 'smes']
+
+Cluster  67
+['water supply', 'pumping', 'water', 'water management', 'irrigation', 'flooding', 'hygiene', 'fishing', 'ocean', 'sea', 'clean water', 'sanitation', 'wash', 'water mobilization', 'water saving', 'water conservation', 'hydroponic farming', 'marine', 'sanitary waste', 'water protection', 'safe drinking water', 'aquaculture', 'fishery', 'drought', 'rain water collection', 'rainwater collector', 'coral', 'ocean conservation', 'coastal protection', 'hydroponic', 'dryer', 'prevention of flooding', 'spring tides', 'shoreline protection', 'marine protected areas', 'nature-based seawalls', 'odor polution', 'phytoplankton communities', 'frogs', 'sea turtle']
+
+Cluster  68
+['depopulation']
+
+Cluster  69
+['epower agregetor']
+
+Cluster  70
+['informal service', 'informal businesses to formal businesses', 'sector informal', 'informality', 'informal employment', 'digitization of the informal sector', 'informal businesses', 'informal markets', 'formalising the informal']
+
+Cluster  71
+['fake news', 'paper waste', 'access to information', '3d printing', 'digital literacy', 'exchange of information', 'sharing information']
+
+Cluster  77
+['reduction of emissions', 'biomass', 'biogas', 'sustainability', 'environment friendly', 'environmental education', 'sustainable manufacturing', 'ecotourism', 'sustainability strategy', 'ecological', 'protecting the environment', 'ecological movements', 'biodiversity', 'environment', 'bio energy', 'environmental ecosystem', 'health and environment', 'pollution reduction', 'air pollution', 'sustainable trade', 'economía circular', 'biotechnology', 'eco delivery', 'eco-activism', 'sustainable development', 'self-sustainable', 'reduce pollution', 'biodigestion', 'carbon emission', 'enviromental mapping', 'sustainable practices', 'biofuel', 'bioconstruction', 'biosecurity', 'sustainable development center', 'pollution preventing', 'biocoal', 'biology', 'environmental justice']
+
+Cluster  78
+['women in energy sector', 'women employment', 'gender equality', 'women in agriculture', 'self-employment', 'youth activism', 'youth', 'youth empowerment', 'gender', 'reducing gender inequalities', 'gender focus', 'women participation', 'children', 'self-management', 'women-led solution', 'aging', 'retirement', 'lgbtiq', 'parenting', 'building youth capacities', 'prepare youth for private sector', 'women-led businesses', 'inclusivity', 'elderly', 'roman women']
+
+Cluster  79
+['permaculture', 'agritourism', 'product', 'agroecological', 'colaborativa', 'agrotech', 'floriculture', 'tetrapak waste', 'agua', 'reciclage', 'dispositivos', 'briquette', 'sargassum', 'digital nomads', 'madera', 'ambulante', 'huerta', 'guadua', 'artesano', 'reuso', 'conectivity', 'entre']
+
+Cluster  80
+['sea level rise']
+
+Cluster  81
+['social cohesion']
+
+Cluster  86
+['data collection', 'big data', 'data science', 'data', 'big data analysis', 'open data', 'alternative data source', 'statistics education', 'digital data collection']
+
+Cluster  87
+['obc']
+
+Cluster  88
+['hidroelectric']
+
+Cluster  91
+['alternatives', 'business for change', 'breeding', 'changemaking skills']
+
+Cluster  92
+['micro small medium enterprises', 'micro, small, medium enterprises', 'small medium enterprises']
+
+Cluster  93
+['sustainable artcrafts']
+
+Cluster  94
+['accessibility', 'disabilities', 'people with disabilities']
+
+Cluster  95
+['community service', 'access to basic services', 'public services', 'digital social services. employment services', 'information service', 'pick up service', 'e-services', 'new public services', 'e-service', 'information center']
+
+Cluster  98
+['clean energy', 'affordable energy', 'energy', 'energy saving', 'sustainable energy', 'electricity', 'renewable energy', 'solar energy', 'energy efficiency', 'alternative energy', 'reneweable energy', 'solar water heater', 'energy efficent', 'waste to energy', 'batteries', 'energy transitions', 'solarpanels', 'energy storage', 'rural electrification']
+
+Cluster  99
+['green technology', 'green ideas', 'green economy', 'green infraestructure', 'green energy']
